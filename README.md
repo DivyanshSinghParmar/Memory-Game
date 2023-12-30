@@ -1,6 +1,6 @@
 Memory Game
 
-Description
+**Description**
 The Memory Game is a classic JavaScript-based game that tests and enhances your memory skills. 
 It challenges players to match pairs of cards within a grid of facedown cards. As players progress, the game complexity increases, requiring greater concentration and memory retention.
 
